@@ -1,6 +1,7 @@
 # Password Strength Calculator
 
-The script is designed to calculate the strength of a password entered by a user. The script takes a [file with prohibited passwords](https://github.com/danielmiessler/SecLists/blob/master/Passwords/10k_most_common.txt) as a parameter.   
+The script is designed to calculate the strength of a password entered by a user. The script outputs the score from 1 to 10: 1 - the password is very weak, 10 - the password is very strong. 
+The script takes a [file with prohibited passwords](https://github.com/danielmiessler/SecLists/blob/master/Passwords/10k_most_common.txt) as a parameter.   
 
 # Quickstart
 
