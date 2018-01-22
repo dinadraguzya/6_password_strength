@@ -6,7 +6,7 @@ The script takes a [file with prohibited passwords](https://github.com/danielmie
 
 # Quickstart
 
-Example of script launch on Linux, Python 3.6:
+Example of script launch on Linux, Python 3.5:
 
 ```bash
 
